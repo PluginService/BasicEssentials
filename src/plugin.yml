@@ -1,8 +1,8 @@
 name: BasicEssentials
-main: me.BasicEssentials.BasicEssentials
+main: me.LiamPlugin.BasicEssentialsMain
 author: [DUFC_Liam]
 authors: [IllX]
-version: 1.2
+version: 1.1.0
 commands:
    exp:
       description: Shows you how much EXP you currently have.
